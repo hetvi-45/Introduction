@@ -157,3 +157,15 @@ a:hover{
 .css {width: 80%; background-color: #E4F9F5;} /* Blue 2196F3 */
 .js {width: 65%; background-color: #E4F9F5;} /* Red f44336 */
 .python{width: 65%; background-color: #E4F9F5;}
+
+@media (max-width: 1028px) {
+    body{
+      text-align: center;
+      font-size: 250%;
+      
+    }
+    div{
+      height: auto;
+    }
+
+}
